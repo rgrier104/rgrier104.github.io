@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project - Beach Review App"
-date:       2019-10-26 02:01:33 +0000
+date:       2019-10-25 22:01:34 -0400
 permalink:  rails_project_-_beach_review_app
 ---
 
@@ -23,5 +23,7 @@ My final step for this project was to add basic styling to make the app look a l
 Overall, I found this project very interesting and love how the concepts are building on one another. It was a very smooth transition from Sinatra to Rails and I'm looking forward to incorporating JavaScript in the future! 
 
 Mood now that my Rails project is (hopefully) complete: 
-![](https://imgur.com/9vF9Vm3)
+
+![Imgur](https://i.imgur.com/9vF9Vm3l.jpg)
+
 Endangered Hawaiian Monk Seal passed out in front of a beautiful sunset at my local beach
