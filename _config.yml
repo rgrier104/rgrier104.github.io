@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: rgrier104@gmail.com
 copyright_name: Rachel Grier
 description: > # this means to ignore newlines until "baseurl:"
-  My Journey Learning to Code
+  My Journey Coding on the Island
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rgrier104
